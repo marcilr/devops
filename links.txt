@@ -11,3 +11,7 @@ Links
 DevOps
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/DevOps
+
+DevOps and AWS
+Tooling and infrastructure resources for DevOps practitioners
+https://aws.amazon.com/devops/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=devops_b&sc_content=devops_p&sc_detail=amazon%20devops&sc_category=devops&sc_segment=159748481203&sc_matchtype=p&sc_country=US&s_kwcid=AL!4422!3!159748481203!p!!g!!amazon%20devops&ef_id=WCzqkQAAAbUlfuFq:20171026181033:s
