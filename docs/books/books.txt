@@ -4,3 +4,14 @@ Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
 
 
 Books for DevOps
+
+
+Books
+=====
+The DevOps Handbook: How to Create World-Class Agility,
+Reliability, and Security in Technology Organizations
+by Gene Kim, Patrick Debois, John Willis, Jez Humble
+paperback
+pages: 480
+publisher: IT Revolution Press
+isbn: 1942788002
