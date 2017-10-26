@@ -1,0 +1,6 @@
+books.txt
+Created Thu Oct 26 10:08:57 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Books for DevOps
